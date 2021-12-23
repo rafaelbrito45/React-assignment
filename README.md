@@ -5,6 +5,8 @@ Rate your show is a small React application that you are able to rate the shows 
 
 **Note** : The code is commited on the branch master
 
+<h2>Getting started</h2>
+
 Make sure you have node installed
 
 Open a terminal and run ```npm install ```
@@ -17,4 +19,6 @@ To run the unit tests write ```npm run test``` on the terminal.
 
 
 
+<h2>Additional information</h2>
 
+run the command `npm run build` to compile everything to a static asset on the folder named build
