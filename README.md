@@ -15,7 +15,7 @@ On the terminal run the command ```npm run server``` to init the JSON server
 
 Split or open another terminal and run the command ```npm start``` to initialize the react app 
 
-To run the unit tests write ```npm run test``` on the terminal.
+To run the unit tests write ```npm test``` on the terminal.
 
 
 
